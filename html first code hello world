@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<!-- <!DOCTYPE html> Tells the browser this is an HTML document -->
+<html>
+<!-- Root element of the HTML page -->
+  <head>
+<!-- Head section: contains information ABOUT the page, not visible to users -->
+    <title>HELLO EVERY ONE</title> 
+<!-- title section: Sets the text shown on the browser tab -->
+  </head>
+  <body>
+<!-- Body section: everything here is displayed to the user -->
+    <h1>hello world!</h1>
+<!-- H1 = biggest heading, shows "Hello World" on screen -->
+  </body>
+</html>
+<!-- End of the HTML page -->
